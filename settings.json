@@ -1,0 +1,103 @@
+{
+    "workbench.editorAssociations": {
+        "*.{sqlplan}": "workbench.editor.executionplan"
+    },
+    "telemetry.telemetryLevel": "crash",
+    "datasource.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "C777F06B-202E-4480-B475-FA416154D458"
+        }
+    ],
+    "datasource.connections": [
+        {
+            "options": {
+                "connectionName": "",
+                "server": "NTT-CBY2PG3",
+                "database": "",
+                "authenticationType": "Integrated",
+                "user": "",
+                "password": "",
+                "trustServerCertificate": true,
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "f30667c8-2509-4924-86e8-23f85a285842"
+        },
+        {
+            "options": {
+                "connectionName": "",
+                "server": "172.26.1.218",
+                "database": "",
+                "authenticationType": "SqlLogin",
+                "user": "VuyaniM",
+                "password": "",
+                "encrypt": "True",
+                "trustServerCertificate": "True",
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "965610d8-bab5-4587-bd59-77336875221b"
+        },
+        {
+            "options": {
+                "connectionName": "",
+                "server": "172.26.1.150",
+                "database": "",
+                "authenticationType": "SqlLogin",
+                "user": "VuyaniM",
+                "password": "",
+                "encrypt": "true",
+                "trustServerCertificate": "true",
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "4e057c6e-69e0-402a-bf04-b67745bc7418"
+        },
+        {
+            "options": {
+                "connectionName": "",
+                "server": "172.26.1.219",
+                "database": "",
+                "authenticationType": "SqlLogin",
+                "user": "VuyaniM",
+                "password": "",
+                "encrypt": "True",
+                "trustServerCertificate": true,
+                "applicationName": "azdata",
+                "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+                "databaseDisplayName": ""
+            },
+            "groupId": "C777F06B-202E-4480-B475-FA416154D458",
+            "providerName": "MSSQL",
+            "savePassword": true,
+            "id": "f9e3e279-a52a-466a-8c6b-fb3adac2774b"
+        }
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.enablePreviewFeatures": true,
+    "workbench.colorTheme": "Pastelin",
+    "dashboard.server.properties": true,
+    "workbench.colorCustomizations": {
+        "editor.background": "#1e1e1e",
+        "sideBar.background": "#272727",
+		"editor.selectionBackground": "#676b7180",
+		"tab.inactiveForeground": "#d8d8d8",
+        // Mine
+		"tab.inactiveBackground": "#2b2a2a",
+		"tab.activeBackground": "#000000",
+        "tab.activeForeground": "#f5eeee",
+    }
+}
